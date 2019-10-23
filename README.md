@@ -1,5 +1,8 @@
 # HW2 - Using Functions
 
+pulldata.py contains URL and selected columns. This module calls the function that turns this data to a dataframe and does the checks
+test_create_dataframe.py houses all of the functions
+
 Create a python module (a file with extension ‘.py’) with the following functions:
 
 1. (1 points) Write a python reads creates a dataframe from a URL that points to a CSV file such as the pronto data or CSVs in data.gov.
